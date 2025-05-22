@@ -4,38 +4,38 @@
 
 ---
 
-## 📦 Fonctionnalités actuelles
+##  Fonctionnalités actuelles
 
-- 🔍 Scraping basé sur le type de site choisi
-- 🧼 Nettoyage des données avant export
-- 🧾 Export multi-format : `CSV`, `JSON`, `XLSX`, `PDF`
-- 🗃️ Architecture modulaire avec séparation des scrapers
+-  Scraping basé sur le type de site choisi
+-  Nettoyage des données avant export
+-  Export multi-format : `CSV`, `JSON`, `XLSX`, `PDF`
+- 🗃 Architecture modulaire avec séparation des scrapers
 
-## 📦 Fonctionnalités en cours 
+##  Fonctionnalités en cours 
   
-- 🌐 Interface de base HTML/CSS (bientôt remplacée par React)
+-  Interface de base HTML/CSS (bientôt remplacée par React)
 
 ---
 
-## 🚧 État du projet
+##  État du projet
 
-🧪 **EN COURS DE DÉVELOPPEMENT**  
+ **EN COURS DE DÉVELOPPEMENT**  
 Certaines fonctionnalités sont encore en construction.  
 Des améliorations continues sont prévues. Contributions bienvenues ! 🙌
 
 ---
 
-## 💡 Améliorations prévues
+##  Améliorations prévues
 
-- 🔐 Authentification des utilisateurs
-- ⚙️ Scraping intelligent avec adaptation automatique à la structure du site
-- 💻 Interface frontend en **React** avec **CSS personnalisé** (sans Tailwind)
-- 📊 Affichage dynamique des données avant export
-- ☁️ Hébergement en ligne (ex. : Vercel / Render / Heroku)
+-  Authentification des utilisateurs
+-  Scraping intelligent avec adaptation automatique à la structure du site
+-  Interface frontend en **React** avec **CSS personnalisé** (sans Tailwind)
+-  Affichage dynamique des données avant export
+-  Hébergement en ligne (ex. : Vercel / Render / Heroku)
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 smart_scraper/
 │
@@ -57,7 +57,7 @@ smart_scraper/
 
 ---
 
-## 🧰 Installation locale
+##  Installation locale
 
 ### 🔧 Prérequis
 
@@ -65,7 +65,7 @@ smart_scraper/
 - Git
 - pip
 
-### 🚀 Lancer le projet
+###  Lancer le projet
 
 ```bash
 git clone https://github.com/<TON_NOM_UTILISATEUR>/smart_scraper.git
@@ -73,6 +73,6 @@ cd smart_scraper
 python main.py
 ```
 
-## 🤝 Contribuer
+##  Contribuer
 Les contributions sont les bienvenues !
 Si vous avez des idées, ouvrez une issue ou proposez une pull request.
