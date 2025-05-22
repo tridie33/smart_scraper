@@ -37,8 +37,8 @@ Des améliorations continues sont prévues. Contributions bienvenues !
 
 ##  Structure du projet
 
+```
 smart_scraper/
-│
 ├── backend/
 │   ├── main.py
 │   ├── config/
@@ -53,6 +53,7 @@ smart_scraper/
 │   └── ... (React + CSS)
 │
 └── README.md
+```
 
 
 
